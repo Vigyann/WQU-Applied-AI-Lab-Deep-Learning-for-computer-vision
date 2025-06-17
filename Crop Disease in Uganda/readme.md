@@ -32,6 +32,11 @@ import torchvision
 from torch.utils.data import DataLoader, random_split
 from torchvision import datasets, transforms
 from tqdm.notebook import tqdm
+import sklearn.model_selection
+import torch.nn as nn
+import torch.optim as optim
+from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
+from torchinfo import summary
 ```
 
 ---
