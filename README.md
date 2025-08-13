@@ -1,5 +1,6 @@
 # Applied AI Lab: Deep Learning for Computer Vision  
 **Issued by WorldQuant University**  
+![Applied AI Lab: Deep Learning for Computer Vision Badge](https://github.com/Vigyann/WQU-Applied-AI-Lab-Deep-Learning-for-computer-vision/raw/main/Screenshot%20(362).png)  
 
 [![View Badge on Credly](https://img.shields.io/badge/View%20Credly%20Badge-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/earner/earned/badge/3029119c-bc74-4c5d-a7d9-55cb667da846)
 
