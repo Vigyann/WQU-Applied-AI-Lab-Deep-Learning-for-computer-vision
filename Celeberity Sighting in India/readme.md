@@ -6,13 +6,14 @@ This project focuses on building an end-to-end deep learning pipeline capable of
 ---
 
 ## 📁 Project Structure
-
+```
+.
 ├── data-exploration.ipynb (Initial exploration of images and frames)
 ├── face-detection.ipynb (Face detection using MTCNN)
 ├── face-recognition.ipynb ( Feature extraction & celebrity identification)
 ├── flask-api.ipynb ( API workflow for serving results)
 └── README.md
-
+```
 
 ---
 
