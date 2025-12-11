@@ -1,15 +1,15 @@
 # 🌿 Crop Disease Detection in Uganda  
 **Deep Learning Project | WorldQuant University**
 
-## 📌 Overview
+##  Overview
 
-This project focuses on identifying **crop diseases from leaf images** using **deep learning** techniques. Developed in collaboration with **WorldQuant University**, the goal was to build an efficient multi-class image classification system that detects and classifies various plant diseases.
+This project focuses on identifying **crop diseases from leaf images** using **deep learning** techniques. Developed in collaboration with **WorldQuant University**, the goal was to build an efficient multi class image classification system that detects and classifies various plant diseases.
 
 We used **transfer learning** with the **ResNet50** model and implemented a series of **model training callbacks** for efficient and optimized performance.
 
 ---
 
-## 🧠 Key Concepts Covered
+##  Key Concepts Covered
 
 - **Transfer Learning** (with ResNet50)
 - **Computer Vision** (using PyTorch & TorchVision)
@@ -20,7 +20,7 @@ We used **transfer learning** with the **ResNet50** model and implemented a seri
 
 ---
 
-## 🧰 Libraries Used
+##  Libraries Used
 
 ```python
 import matplotlib
@@ -41,7 +41,7 @@ from torchinfo import summary
 
 ---
 
-## 📊 Dataset Preparation
+##  Dataset Preparation
 
 ### Steps:
 
@@ -55,10 +55,10 @@ from torchinfo import summary
 
 ---
 
-## 🏗️ Model Architecture
+##  Model Architecture
 
-- Built a **Convolutional Neural Network (CNN)** for multi-class classification.
-- Used **Transfer Learning** with **ResNet50** pre-trained on ImageNet.
+- Built a **Convolutional Neural Network (CNN)** for multi class classification.
+- Used **Transfer Learning** with **ResNet50** pre trained on ImageNet.
 - Replaced the final classification layer to match the number of crop disease classes.
 
 ---
