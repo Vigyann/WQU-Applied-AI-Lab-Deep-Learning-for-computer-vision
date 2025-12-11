@@ -10,7 +10,7 @@ The objective of this project is to build a full synthetic image generation pipe
 
 - Generates **synthetic X-ray and MRI images** using GANs built from scratch in PyTorch.
 - Fine tunes **MediGAN**, a specialized medical image generation model.
-- Deploys a **Streamlit-based application** to generate synthetic medical images on demand.
+- Deploys a **Streamlit based application** to generate synthetic medical images on demand.
 - Ensures complete patient anonymity while supporting model training, experimentation, and augmentation.
 
 This project aims to enhance medical imaging datasets without exposing sensitive medical records.
