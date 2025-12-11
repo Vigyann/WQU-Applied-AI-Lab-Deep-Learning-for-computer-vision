@@ -1,5 +1,5 @@
 
-# 🚦 Traffic Analysis with YOLO & Real-Time Video Processing 
+# 🚦 Traffic Analysis with YOLO & Real Time Video Processing 
 
 ##  Project Overview
 This project is focused on **Traffic Flow Analysis** in collaboration with **WQU**, leveraging the **YOLO (You Only Look Once)** model for real-time object detection in traffic surveillance videos.
@@ -70,7 +70,7 @@ To combat limited labeled data, applied various augmentations:
 
 ---
 
-## ✅ Outcomes
+##  Outcomes
 
 The system can now:
 - Detect objects in real-time videos.
@@ -81,10 +81,10 @@ This project provides a foundation for **smart city traffic monitoring**, **cong
 
 ---
 
-🔗 **Model**: YOLOv8 by Ultralytics  
-🧪 **Framework**: PyTorch + Ultralytics  
-🎥 **Input**: Real-time or recorded traffic video  
-📁 **Annotations**: XML-based bounding boxes  
+ **Model**: YOLOv8 by Ultralytics  
+ **Framework**: PyTorch + Ultralytics  
+ **Input**: Real-time or recorded traffic video  
+ **Annotations**: XML-based bounding boxes  
 
 ---
 
